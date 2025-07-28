@@ -61,7 +61,7 @@ import React from 'react';
           }
         }
       },
-      image: "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?w=800&q=80",
+      image: "https://www.sostraveltoindia.com/wp-content/uploads/2025/01/Hampi.jpg",
       bestTime: "October to February",
       highlight: "UNESCO World Heritage site with ancient Vijayanagara ruins"
     },
@@ -84,7 +84,7 @@ import React from 'react';
           }
         }
       },
-      image: "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?w=800&q=80",
+      image: "https://cdn.wallpapersafari.com/24/75/MgIUcC.jpg",
       bestTime: "November to February",
       highlight: "Beach paradise with Portuguese heritage and vibrant nightlife"
     },
@@ -116,7 +116,7 @@ import React from 'react';
           }
         }
       },
-      image: "https://images.unsplash.com/photo-1609920658906-8223bd289001?w=800&q=80",
+      image: "https://clubmahindra.gumlet.io/blog/media/section_images/desktop23-f54e6ac343dbfab.jpg?w=376&dpr=2.6",
       bestTime: "October to March",
       highlight: "UNESCO site famous for intricate temple sculptures and art"
     },
@@ -132,7 +132,7 @@ import React from 'react';
           }
         }
       },
-      image: "https://images.unsplash.com/photo-1571115764595-644a1f56a55c?w=800&q=80",
+      image: "https://www.orfonline.org/public/uploads/posts/image/665b3544e4047.png",
       bestTime: "November to February",
       highlight: "World's largest mangrove forest and Royal Bengal Tiger habitat"
     },
@@ -148,7 +148,7 @@ import React from 'react';
           }
         }
       },
-      image: "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3?w=800&q=80",
+      image: "https://t4.ftcdn.net/jpg/05/02/70/43/360_F_502704383_aRNoCa5y96HcSQyqjGZwq3ZQuumijANE.jpg",
       bestTime: "October to March",
       highlight: "Temple city with magnificent Dravidian architecture"
     },
@@ -164,7 +164,7 @@ import React from 'react';
           }
         }
       },
-      image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+      image: "https://wallpaperbat.com/img/46496310-jammu-and-kashmir-photo-download.jpg",
       bestTime: "March to October",
       highlight: "Paradise on Earth with Dal Lake and stunning mountain views"
     },
@@ -180,7 +180,7 @@ import React from 'react';
           }
         }
       },
-      image: "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?w=800&q=80",
+      image: "https://t4.ftcdn.net/jpg/04/08/25/05/360_F_408250543_MVaEVGeWxb4FiFy7mEGKj8nfYkwoAZON.jpg",
       bestTime: "October to March",
       highlight: "Spiritual capital of India with ancient ghats along Ganges"
     },
